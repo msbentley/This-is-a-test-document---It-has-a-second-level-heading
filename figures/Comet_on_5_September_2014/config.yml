@@ -1,0 +1,8 @@
+---
+version: 1
+multicolumn: false
+export-width: 0.7\columnwidth
+web-width: 500px
+align: center
+float: h!
+path: figures/Comet_on_5_September_2014/config.yml
